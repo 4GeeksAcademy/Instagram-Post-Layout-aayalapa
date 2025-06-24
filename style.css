@@ -1,3 +1,13 @@
 body{
   background:red;  
 }
+
+
+#test{
+  background:yellow;
+}
+
+#cursive{
+font-family: "Edu NSW ACT Cursive", cursive;
+}
+
